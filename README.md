@@ -46,6 +46,10 @@ Coming soon.
 
 Shek Abdullah
 
+## Project URL
+
+https://abdullah420YT.github.io/Single-Page-CV/
+
 GitHub: [Abdullah420YT](https://github.com/Abdullah420YT)
 
 ## License
