@@ -38,10 +38,6 @@ Single-Page-CV/
 3. Open `index.html` in your browser.
 4. Alternatively, use the Live Server extension in VS Code.
 
-## Live Demo
-
-Coming soon.
-
 ## Author
 
 Shek Abdullah
