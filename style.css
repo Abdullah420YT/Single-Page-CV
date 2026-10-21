@@ -162,3 +162,28 @@ tr:nth-child(even) {
         font-size: 17px;
     }
 }
+
+/* Education Table Border */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid #222;
+    margin-top: 15px;
+}
+
+table th,
+table td {
+    border: 1px solid #222;
+    padding: 12px;
+    text-align: left;
+}
+
+table th {
+    background-color: #159b42;
+    color: white;
+}
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
